@@ -50,7 +50,9 @@ class ArticleTableRow extends React.Component {
             />
           </td>
           <td>{selectedStatus}</td>
-          <td>{this.props.author}</td>
+            <td>
+              <address>{this.props.author}</address>
+            </td>
           <td>
             <time dateTime={this.getTimeDate(this.props.date)}>
               {this.getDate(this.props.date)}
