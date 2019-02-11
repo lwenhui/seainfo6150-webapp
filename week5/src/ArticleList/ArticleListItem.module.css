@@ -1,6 +1,5 @@
 .singleListItem{
-    border-color: #c90813;
-    border-style: solid;
+    border: 0.125rem solid #c90813;
     margin: 3.125rem 3.125rem 0 3.125rem;
     background-color: #eeeeee;
     padding: 1.25rem;

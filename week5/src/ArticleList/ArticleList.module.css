@@ -3,4 +3,5 @@
     flex-direction: column;
     background-color: #999999;
     margin: 3.125rem;
+    border: 0.0625rem dashed;
 }
