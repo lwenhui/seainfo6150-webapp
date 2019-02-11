@@ -8,6 +8,7 @@ const ArticleTable = ({ articles }) => (
     <caption>
       Article Table
     </caption>
+      <thead>
     <tr>
       <th>Checkbox</th>
       <th>Status</th>
@@ -15,6 +16,9 @@ const ArticleTable = ({ articles }) => (
       <th>Date</th>
       <th>Short Text</th>
     </tr>
+      </thead>
+      <tbody>
+
     {
       // this iterates through the articles JSON and
       // calls your ArticleTableRow component for each article
@@ -28,6 +32,7 @@ const ArticleTable = ({ articles }) => (
         />
       })
     }
+      </tbody>
   </table>
 
 );
