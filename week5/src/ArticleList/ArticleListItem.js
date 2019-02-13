@@ -20,7 +20,7 @@ class ArticleListItem extends React.Component {
     render() {
 
         return (
-            <div className={style.singleListItem}>
+            <li className={style.singleListItem}>
                 <div className={style.title}>{this.props.title}</div>
                 <section className={style.short_text}>
                     {this.props.shortText}
@@ -31,7 +31,7 @@ class ArticleListItem extends React.Component {
                         {this.props.date}
                     </time>
                 </div>
-            </div>
+            </li>
 
         );
     }
