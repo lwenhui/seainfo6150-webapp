@@ -1,0 +1,8 @@
+.pannel {
+    background-color: #999999;
+    margin: 3.125rem;
+    border: 0.0625rem dashed;
+    padding: 0;
+    border-radius: 0.625rem;
+    min-width: 37.5rem;
+}
