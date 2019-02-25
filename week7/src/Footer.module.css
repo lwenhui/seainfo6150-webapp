@@ -1,0 +1,13 @@
+.footer {
+    min-width: 63.8rem;
+    height: 10rem;
+    background-color: #c90813;
+    color: white;
+    margin: 0;
+    padding: 0 3.125rem;
+    display: flex;
+    flex-direction: row;
+}
+.address {
+    margin: 1rem;
+}

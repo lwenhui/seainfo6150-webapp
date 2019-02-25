@@ -1,0 +1,7 @@
+.article_image {
+    width: 12.5rem;
+    height: 7.5rem;
+    border-radius: 50%;
+    border: 0.5rem solid #c90813;
+    box-shadow: 0 0.625rem 0.75rem #3e3e3e;
+}
