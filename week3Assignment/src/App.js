@@ -20,7 +20,7 @@ class App extends Component {
 
         <p><q>Although it is not one of the most difficult things we have ever moved,</q> says Douglas Phelps, who oversaw the relocation of the torch, <q>it is certainly the most important.</q></p>
 
-        <p>Not only is the Statue of Liberty the symbol of New York City, she is also a <abbr title='The United Nations Educational, Scientific and Cultural Organization'>UNESCO</abbr> World Heritage site under the designation of <em>"Outstanding Universal Value."</em></p>
+        <p>Not only is the Statue of Liberty the symbol of New York City, she is also a <abbr title='The United Nations Educational, Scientific and Cultural Organization'>UNESCO</abbr> World Heritage site under the designation of <q>Outstanding Universal Value.</q></p>
 
         <p>Her full name is Liberty Enlightening the World, and she was designed by Frederic Auguste Bartholdi and built by Gustave Eiffel -- yes, the same guy who built Paris's Eiffel Tower.</p>
 
@@ -28,7 +28,7 @@ class App extends Component {
 
         <p>Since then, the statue has served as a symbol of hope and possibility for many people who entered the United States as immigrants via neighboring Ellis Island.</p>
 
-        <p><q>The original torch is a beautiful object of art and exemplifies the American ideals of freedom and democracy,</q> says John Piltzecker, superintendent of the Statue of Liberty National Monument. That symbolic spirit was bolstered by the decision to inscribe Emma Lazarus' poem <em>"The New Colossus"</em> on the statue's pedestal, which gave Lady Liberty one of her nicknames, <em>"Mother of Exiles."</em></p>
+        <p><q>The original torch is a beautiful object of art and exemplifies the American ideals of freedom and democracy,</q> says John Piltzecker, superintendent of the Statue of Liberty National Monument. That symbolic spirit was bolstered by the decision to inscribe Emma Lazarus' poem <q>The New Colossus</q> on the statue's pedestal, which gave Lady Liberty one of her nicknames, <q>Mother of Exiles.</q></p>
 
         <p>The most famous lines in the poem are: <blockquote>"Give me your tired, your poor / Your huddled masses yearning to breathe free."</blockquote></p>
 
