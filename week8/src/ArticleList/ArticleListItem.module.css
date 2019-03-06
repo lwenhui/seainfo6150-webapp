@@ -1,0 +1,39 @@
+.single_list_item{
+    display: flex;
+    flex-direction: column;
+    border: 0.125rem solid #c90813;
+    margin: 5%;
+    background-image: linear-gradient(90deg, red -50% , white 14%);
+    padding: 5%;
+    list-style: none;
+    box-shadow: 0 0.625rem 0.75rem #3e3e3e;
+}
+.image{
+    width: 80%;
+}
+.content{
+    margin-top: 1.25rem;
+    text-align: left;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+.title {
+    color: #c90813;
+    font-weight: bold;
+    font-size: 1.125rem;
+}
+.short_text{
+    color: #3e3e3e;
+}
+
+.time_author{
+    margin-top: 1.5rem;
+}
+.time{
+    font-weight: bold;
+    color: #333333;
+}
+.author{
+    color: #3e3e3e;
+}

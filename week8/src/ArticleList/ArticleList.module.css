@@ -1,0 +1,21 @@
+.pannel {
+    background-color: #999999;
+    margin: 1rem 0;
+    border: 0.0625rem dashed;
+    padding: 0;
+    min-width: 26.1rem;
+    display: grid;
+    grid-template-columns: 1fr;
+}
+
+@media (min-width: 37.5rem) {
+    .pannel {
+        grid-template-columns: 1fr 1fr;
+    }
+}
+
+@media (min-width: 65rem) {
+    .pannel {
+        grid-template-columns: 1fr 1fr 1fr;
+    }
+}
